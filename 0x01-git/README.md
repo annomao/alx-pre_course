@@ -1,2 +1,2 @@
 ## File Navigation  
-Creating and updating files
+Creating, updating and manipulating files
